@@ -1,0 +1,21 @@
+{
+  "name": "playwright-vscode-smbat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.43.0",
+    "@types/node": "^20.11.29",
+    "eslint": "^8.57.0"
+  },
+  "dependencies": {
+    "@githubnext/github-copilot-cli": "^0.1.36",
+    "copilot-js": "^1.1.0",
+    "dotenv": "^16.4.5",
+    "eslint-config-airbnb": "^19.0.4"
+  }
+}
