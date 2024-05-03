@@ -1,4 +1,5 @@
 /* eslint-disable linebreak-style */
+/* eslint-disable import/no-extraneous-dependencies */
 import { test, expect } from '@playwright/test';
 
 test('015 Verify the visibility of the Menu Button', async ({ page }) => {
